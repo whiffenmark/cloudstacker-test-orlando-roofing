@@ -1,0 +1,32 @@
+[
+  {
+    "tier": "Tier 1",
+    "platform": "GitHub Pages",
+    "site_slug": "orlando-roofing-pros-hub",
+    "purpose": "Money page support and canonical static page"
+  },
+  {
+    "tier": "Tier 1",
+    "platform": "Cloudflare Pages",
+    "site_slug": "orlando-roofing-pros-cf",
+    "purpose": "Fast mirrored page with schema and map embeds"
+  },
+  {
+    "tier": "Tier 2",
+    "platform": "Netlify",
+    "site_slug": "orlando-roofing-pros-netlify",
+    "purpose": "Supporting article cluster"
+  },
+  {
+    "tier": "Tier 2",
+    "platform": "Google Sites",
+    "site_slug": "orlando-roofing-pros-entity",
+    "purpose": "Entity validation and brand profile"
+  },
+  {
+    "tier": "Tier 3",
+    "platform": "Notion / Docs",
+    "site_slug": "orlando-roofing-pros-citations",
+    "purpose": "Citations, supporting references, and embeds"
+  }
+]
