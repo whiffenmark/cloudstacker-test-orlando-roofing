@@ -1,0 +1,32 @@
+[
+  {
+    "type": "Exact Match",
+    "text": "Roof Repair Orlando",
+    "target_url": "https://example.com/roofing"
+  },
+  {
+    "type": "Partial Match",
+    "text": "trusted roof repair help",
+    "target_url": "https://example.com/roofing"
+  },
+  {
+    "type": "Branded",
+    "text": "Orlando Roofing Pros",
+    "target_url": "https://example.com/roofing"
+  },
+  {
+    "type": "Naked URL",
+    "text": "example.com/roofing",
+    "target_url": "https://example.com/roofing"
+  },
+  {
+    "type": "Generic",
+    "text": "learn more",
+    "target_url": "https://example.com/roofing"
+  },
+  {
+    "type": "Map / Entity",
+    "text": "Orlando Roofing Pros in Orlando",
+    "target_url": "https://example.com/roofing"
+  }
+]
